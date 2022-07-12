@@ -21,8 +21,8 @@ and Texas Instruments LMR62421XMFE/NOPB to step up the voltage to 5V to the Ardu
 
 If you don’t want to do too much, you can also use the power bank to power the MCU by the USB port.
 
-The above schematic diagrams are drawn in DesignSpark PCB 10.0.
-
 ![Picture4](https://user-images.githubusercontent.com/106225286/178451957-45c7c0a0-a330-4b8a-a620-f436dd13a6c5.png)
+
+The above schematic diagrams are drawn in DesignSpark PCB 10.0.
 
 ![Picture6](https://user-images.githubusercontent.com/106225286/178451960-9e92d798-1700-4bc3-a168-ae727bb647ab.png)
