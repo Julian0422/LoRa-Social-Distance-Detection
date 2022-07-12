@@ -3,4 +3,4 @@ This project uses an Arduino Nano 33 IOT and an Adafruit RFM96W LoRa module.
 To make it wearable, I also used a 3.7V, 1200mAh Lithium polymer battery as the power source, Microchip MCP73832 IC for charging the Lithium polymer battery, 
 and Texas Instruments LMR62421XMFE/NOPB to step up the voltage to 5V to the Arduino Nano 33 IOT.
 
-Schematic drawing
+
